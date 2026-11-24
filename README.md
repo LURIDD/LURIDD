@@ -1,18 +1,26 @@
-# Merhaba, ben LURID! 👋
+# LURID Imura 井村
 
-### 🚀 Hakkımda
-Ben **Bilgisayar Programcılığı** öğrencisi ve tutkulu bir **Junior Developer**'ım. Yazılım dünyasına olan merakım çocukluk yıllarımdaki oyun tutkumla başladı, bugün ise bu tutkuyu profesyonel projelere dönüştürüyorum.
+Linux'ta yaşıyorum, çoğunlukla terminalde. Bir aracı beğenmezsem kendim yazarım; beğenirsem de genelde yine yazarım.
 
-- 💻 **İşletim Sistemi:** Arch Linux kullanıcısıyım; sistem optimizasyonu ve terminal tabanlı iş akışları üzerine çalışmayı seviyorum.
-- 🤖 **Yapay Zeka:** Yazılım geliştirme süreçlerimde Prompt Engineering tekniklerini aktif olarak kullanarak verimliliğimi artırıyorum.
-- 🎯 **Hedef:** Modern mobil uygulama mimarileri ve oyun geliştirme dünyasında kendimi geliştirmek.
+```
+os      : Arch tabanlı (CachyOS) · Hyprland · Quickshell
+dil     : Rust · Python · Shell · JavaScript
+ilgi    : masaüstü araçları · ses · ağ · oyun sunucuları
+```
 
-### 🛠️ Teknik Yetkinlikler
-- **Diller:** Dart, Python, Kotlin, C#, Java, JavaScript
-- **Frameworks:** Flutter, React, Next.js (Öğrenme aşamasında)
-- **Araçlar:** Git & GitHub, Firebase, VS Code, Android Studio, Docker
-- **Sistem:** Linux (Sistem Yönetimi & Dotfiles), Bash Scripting
+### Projeler
 
-### 📂 Öne Çıkan Projelerim
-- **[Spor ve Denge Takibi](https://github.com/LURIDD/Spor-Denge-Takibi):** Flutter & Firebase ile geliştirilmiş, admin paneli ve KPI takibi içeren gelişmiş bir sağlık asistanı.
+| | |
+|---|---|
+| [**vynz**](https://github.com/LURIDD/vynz) | Rust + Slint ile yazılmış, çok kaynaklı masaüstü müzik oynatıcı (YouTube Music, SoundCloud, Spotify içe aktarma). |
+| [**zapret-setup**](https://github.com/LURIDD/zapret-setup) | Türkiye'deki ISS'ler için zapret DPI aşma kurulumu (Discord, Roblox). |
+| [**refresh-tracker**](https://github.com/LURIDD/refresh-tracker) | Sayfa yenilemelerini zaman damgası ve konsol kaydıyla izleyen tarayıcı eklentisi. |
+| **VoidByte MC** | Velocity + Paper üzerinde çalışan topluluk Minecraft ağı ve ona eşlik eden Discord botu. Arkadaki sessiz el. |
 
+### Şu sıralar
+- vynz'i hafifletmek (RAM'le aram iyi değil)
+- Hyprland masaüstümü kendi araçlarımla doldurmak
+
+---
+
+<sub>Bir şey bozuksa issue açın. Bozuk değilse de açın, belki bozuktur.</sub>
